@@ -177,6 +177,37 @@
         "pdf": "https://www.sciencedirect.com/science/article/pii/S0306919223000751?dgcid=author",
         "project": "vbm_dec2022/pdf"
       }
+    },
+    {
+      "title": "Good Intentions Gone Bad? The Dodd-Frank Act and Conflict in Africa’s Great Lakes Region",
+      "authors": [
+        "Jeffrey R. Bloem"
+      ],
+      "venue": "Economic Development and Cultural Change (2023)",
+      "thumbnail": "images/EDCC.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.journals.uchicago.edu/doi/full/10.1086/715618",
+        "project": "df_conflict2021.pdf",
+        "code": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AWP6ML"
+      }
+    },
+    {
+      "title": "All I Really Need to Know I Learned in Kindergarten? Evidence from the Philippines",
+      "authors": [
+        "Jeffrey R. Bloem",
+        "Bruce Wydick"
+      ],
+      "venue": "Economic Development and Cultural Change (2023)",
+      "thumbnail": "images/EDCC.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.journals.uchicago.edu/doi/full/10.1086/715502",
+        "project": "jumpstart_final_edcc.pdf",
+        "code": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TLR3YL"
+      }
     }
   ]
 }
