@@ -208,6 +208,21 @@
         "project": "jumpstart_final_edcc.pdf",
         "code": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TLR3YL"
       }
+    },
+{
+      "title": "The psychological toll of food insecurity",
+      "authors": [
+        "Mo Alloush",
+        "Jeffrey R. Bloem"
+      ],
+      "venue": "Journal of Economic Behavior and Organization (2022)",
+      "thumbnail": "images/JEBO.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0167268122003729",
+        "project": "ab_sept2022.pdf"
+      }
     }
   ]
 }
