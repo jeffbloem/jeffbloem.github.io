@@ -11,31 +11,23 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://www.sciencedirect.com/science/article/pii/S0304387825001518",
-        "code": "#"
+        "pdf": "https://www.sciencedirect.com/science/article/pii/S0304387825001518"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Private sector promotion of agricultural technologies: Experimental evidence from Nigeria",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Lenis Saweda O Liverpool-Tasie",
+        "Andrew Dillon",
+        "Jeffrey R. Bloem",
+        "Guigonan Serge Adjognon"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "venue": "Journal of Environmental Economics and Management (2025)",
+      "thumbnail": "images/JEEM.jpg",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://www.sciencedirect.com/science/article/pii/S0095069625000853"
       }
     }
   ]
