@@ -161,7 +161,7 @@ function createPublicationElement(publication) {
     if (publication.links.project) {
       const projectLink = document.createElement('a');
       projectLink.href = publication.links.project;
-      projectLink.textContent = '[Project Page]';
+      projectLink.textContent = '[Pre-Print]';
       links.appendChild(projectLink);
     }
     
