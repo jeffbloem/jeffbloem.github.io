@@ -156,9 +156,10 @@
       "venue": "World Bank Economic Review (2024)",
       "thumbnail": "images/WBER.jpg",
       "selected": 1,
-      "award": "Open Access",
+      "award": "",
       "links": {
-        "pdf": "https://academic.oup.com/wber/article/38/2/371/7442612?login=true&guestAccessKey="
+        "pdf": "https://academic.oup.com/wber/article/38/2/371/7442612?login=true&guestAccessKey=",
+        "project": 
       }
     },
 {
