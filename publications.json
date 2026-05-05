@@ -43,13 +43,29 @@
         "Christopher B. Barrett"
       ],
       "venue": "Nature Food (2025)",
-      "thumbnail": "images/NatureFood.png",
+      "thumbnail": "images/NatureFood.jpg",
       "selected": 1,
       "award": "",
       "links": {
         "pdf": "https://www.sciencedirect.com/science/article/pii/S0095069625000853",
         "project": "https://cgspace.cgiar.org/items/9613ea3b-0987-406f-a63d-e9e3033b84e1",
         "code": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T6ON4W"
+      }
+    },
+    {
+      "title": "Income Aspirations and Migration: Evidence From Rural Tajikistan",
+      "authors": [
+        "Jeffrey R. Bloem",
+        "Isabel Lambrecht",
+        "Kamiljon Akromov"
+      ],
+      "venue": "International Migration Review (2025)",
+      "thumbnail": "images/IMR.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://journals.sagepub.com/doi/10.1177/01979183251343885",
+        "project": "https://doi.org/10.2499/p15738coll2.137012"
       }
     }
   ]
