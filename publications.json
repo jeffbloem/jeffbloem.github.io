@@ -1,22 +1,6 @@
 {
   "publications": [
     {
-      "title": "Agricultural technology adoption and deforestation: Evidence from a randomized control trial",
-      "authors": [
-        "Jeffrey R. Bloem",
-        "Clark Lundberg"
-      ],
-      "venue": "Journal of Development Economics",
-      "thumbnail": "JDE.jpg",
-      "selected": 1,
-      "award": "",
-      "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
-      }
-    },
-    {
       "title": "[Paper Title 2]",
       "authors": [
         "Author 1*",
