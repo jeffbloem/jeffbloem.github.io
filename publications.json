@@ -233,7 +233,7 @@
       "venue": "Agriculture and Food Security (2022)",
       "thumbnail": "images/AFS.jpg",
       "selected": 0,
-      "award": "",
+      "award": "Open Access",
       "links": {
         "pdf": "https://link.springer.com/article/10.1186/s40066-022-00391-4"
       }
@@ -250,6 +250,21 @@
       "award": "",
       "links": {
         "pdf": "https://onlinelibrary.wiley.com/doi/10.1002/aepp.13300"
+      }
+    },
+{
+      "title": "The Analysis of Human Feelings: A Practical Suggestion for a Robustness Test",
+      "authors": [
+        "Jeffrey R. Bloem",
+        "Andrew Oswald"
+      ],
+      "venue": "The Review of Income and Wealth (2021)",
+      "thumbnail": "images/RIW.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://onlinelibrary.wiley.com/doi/10.1111/roiw.12531",
+        "project": "https://docs.iza.org/dp14632.pdf"
       }
     }
   ]
