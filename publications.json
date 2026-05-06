@@ -283,6 +283,7 @@
         "pdf": "https://www.sciencedirect.com/science/article/pii/S0306919222000823",
         "project": "https://www.ers.usda.gov/publications/pub-details?pubid=104199",
         "code": "https://zenodo.org/records/6773380#.YrtJaOzMJpQ"
+      }
       },
 {
       "title": "Producers, consumers, and value chains in low- and middle-income countries",
@@ -298,7 +299,6 @@
       "links": {
       "pdf": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1574007222000056?dgcid=author"
       }
-    }
     }
   ]
 }
