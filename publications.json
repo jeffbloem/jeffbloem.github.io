@@ -253,6 +253,21 @@
       }
     },
 {
+      "title": "The Analysis of Human Feelings: A Practical Suggestion for a Robustness Test",
+      "authors": [
+        "Jeffrey R. Bloem",
+        "Andrew Oswald"
+      ],
+      "venue": "The Review of Income and Wealth (2022)",
+      "thumbnail": "images/RIW.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://onlinelibrary.wiley.com/doi/10.1111/roiw.12531",
+        "project": "https://docs.iza.org/dp14632.pdf"
+      }
+    },
+{
       "title": "Food insecurity during the first year of the COVID-19 pandemic in four African countries",
       "authors": [
         "Lorin Rudin-Rush",
@@ -270,21 +285,20 @@
         "code": "https://zenodo.org/records/6773380#.YrtJaOzMJpQ"
       },
 {
-      "title": "The Analysis of Human Feelings: A Practical Suggestion for a Robustness Test",
+      "title": "Producers, consumers, and value chains in low- and middle-income countries",
       "authors": [
+        "Marc F. Bellemare",
         "Jeffrey R. Bloem",
-        "Andrew Oswald"
+        "Sunghun Lim"
       ],
-      "venue": "The Review of Income and Wealth (2021)",
-      "thumbnail": "images/RIW.jpg",
+      "venue": "Handbook of Agricultural Economics (2022)",
+      "thumbnail": "images/HAE.jpg",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "https://onlinelibrary.wiley.com/doi/10.1111/roiw.12531",
-        "project": "https://docs.iza.org/dp14632.pdf"
+        "pdf": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1574007222000056?dgcid=author"
       }
-    },
-
+    }
     }
   ]
 }
