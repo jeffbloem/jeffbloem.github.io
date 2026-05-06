@@ -253,6 +253,23 @@
       }
     },
 {
+      "title": "Food insecurity during the first year of the COVID-19 pandemic in four African countries",
+      "authors": [
+        "Lorin Rudin-Rush",
+        "Jeffrey D. Michler",
+        "Anna Josephson",
+        "Jeffrey R. Bloem"
+      ],
+      "venue": "Food Policy (2022)",
+      "thumbnail": "images/FoodPolicy.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/pii/S0306919222000823",
+        "project": "https://www.ers.usda.gov/publications/pub-details?pubid=104199",
+        "code": "https://zenodo.org/records/6773380#.YrtJaOzMJpQ"
+      },
+{
       "title": "The Analysis of Human Feelings: A Practical Suggestion for a Robustness Test",
       "authors": [
         "Jeffrey R. Bloem",
@@ -266,6 +283,8 @@
         "pdf": "https://onlinelibrary.wiley.com/doi/10.1111/roiw.12531",
         "project": "https://docs.iza.org/dp14632.pdf"
       }
+    },
+
     }
   ]
 }
