@@ -223,6 +223,20 @@
         "pdf": "https://www.sciencedirect.com/science/article/abs/pii/S0167268122003729",
         "project": "ab_sept2022.pdf"
       }
+    },
+{
+      "title": "The COVID-19 pandemic and food security in low- and middle-income countries: a review",
+      "authors": [
+        "Jeffrey R. Bloem",
+        "Jarrad Farris"
+      ],
+      "venue": "Agriculture and Food Security (2022)",
+      "thumbnail": "images/AFS.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://link.springer.com/article/10.1186/s40066-022-00391-4"
+      }
     }
   ]
 }
