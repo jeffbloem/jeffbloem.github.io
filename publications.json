@@ -299,6 +299,20 @@
       "links": {
       "pdf": "https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1574007222000056?dgcid=author"
       }
+    },
+{
+      "title": "How Much Does the Cardinal Treatment of Ordinal Variables Matter? An Empirical Investigation",
+      "authors": [
+        "Jeffrey R. Bloem"
+      ],
+      "venue": "Political Analysis (2022)",
+      "thumbnail": "images/PA.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+      "pdf": "https://www.cambridge.org/core/journals/political-analysis/article/abs/how-much-does-the-cardinal-treatment-of-ordinal-variables-matter-an-empirical-investigation/E0EF3B32B39B3E5BB7BE4D7E8055D828",
+      "code": "https://codeocean.com/capsule/3696426/tree/v1"
+      }
     }
   ]
 }
