@@ -355,6 +355,61 @@
       "links": {
       "pdf": "https://link.springer.com/article/10.1007/s10888-021-09478-7"
       }
+    },
+{
+      "title": "The influence of hidden researcher decisions in applied microeconomics",
+      "authors": [
+        "Nick Huntington-Klein",
+        "Andrew Arenas",
+        "Emily Beam",
+        "Marco Bertoni",
+        "Jeffrey R. Bloem",
+        "Pralhad Burli",
+        "Naibin Chen",
+        "Paul Grieco",
+        "Godwin Ekpe",
+        "Todd Pugatch",
+        "Martin Saavedra",
+        "Yaniv Stopnitzky"
+      ],
+      "venue": "Economic Inquiry (2021)",
+      "thumbnail": "images/EI.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+      "pdf": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12992",
+      "project": "https://docs.iza.org/dp13233.pdf"
+      }
+    },
+{
+      "title": "The coronavirus pandemic and food security: Evidence from Mali",
+      "authors": [
+        "Guigonan Serge Adjognon",
+        "Jeffrey R. Bloem",
+        "Aly Sanoh"
+      ],
+      "venue": "Food Policy (2021)",
+      "thumbnail": "images/FoodPolicy.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0306919221000282",
+      "project": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/594491605102982608/the-coronavirus-pandemic-and-food-security-evidence-from-west-africa"
+      }
+    },
+{
+      "title": "COVID-19 and conflict",
+      "authors": [
+        "Jeffrey R. Bloem",
+        "Colette Salemi"
+      ],
+      "venue": "World Development (2021)",
+      "thumbnail": "images/WD.jpg",
+      "selected": 0,
+      "award": "",
+      "links": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0305750X20304216"
+      }
     }
   ]
 }
