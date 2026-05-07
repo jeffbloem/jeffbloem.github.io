@@ -313,6 +313,21 @@
       "pdf": "https://www.cambridge.org/core/journals/political-analysis/article/abs/how-much-does-the-cardinal-treatment-of-ordinal-variables-matter-an-empirical-investigation/E0EF3B32B39B3E5BB7BE4D7E8055D828",
       "code": "https://codeocean.com/capsule/3696426/tree/v1"
       }
+    },
+{
+      "title": "Neighborhood violence, poverty, and psychological well-being",
+      "authors": [
+        "Mo Alloush",
+        "Jeffrey R. Bloem"
+      ],
+      "venue": "Journal of Development Economics (2022)",
+      "thumbnail": "images/JDE.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0304387821001218?v=s5",
+      "project": "alloushbloem_september2021.pdf"
+      }
     }
   ]
 }
